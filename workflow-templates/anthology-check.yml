@@ -1,4 +1,4 @@
-name: EMNLP Organization check
+name: Anthology ingestion format check
 
 on:
   push:

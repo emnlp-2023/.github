@@ -1,0 +1,7 @@
+{
+    "name": "ACL Anthology check",
+    "description": "Checks the repo for conformity to the ACL Anthology ingestion format.",
+    "filePatterns": [
+        "papers.yml"
+    ]
+}
